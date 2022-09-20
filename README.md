@@ -1,7 +1,7 @@
 # Dio-desafio-github-primeiro-repositorio
 Desafio de Projeto sobre Git/Github
 
-## links utéis
+## Links utéis
 
 [Sintaxe Basica Markdown]()
 
@@ -18,4 +18,5 @@ Vale destacar ainda que o Github permite várias integrações com outros servi�
 
 Outro ponto interessante é que existem vários projetos open-source hospedados no Github, que permitem a colaboração em conjunto.
 
-Referência :https://blog.impulso.team/git-e-github-mfbp/?utm_source=google&utm_medium=cpc&utm_campaign=ad-search-blog-impulso&utm_term=marketing&gclid=CjwKCAjwyaWZBhBGEiwACslQow0wKUfUgbvvXW-ZOGPAj3sSpyEL7BHCJ3f3ONr_q1cye025aeNoKxoCVxgQAvD_BwE
+Referência:
+https://blog.impulso.team/git-e-github-mfbp/?utm_source=google&utm_medium=cpc&utm_campaign=ad-search-blog-impulso&utm_term=marketing&gclid=CjwKCAjwyaWZBhBGEiwACslQow0wKUfUgbvvXW-ZOGPAj3sSpyEL7BHCJ3f3ONr_q1cye025aeNoKxoCVxgQAvD_BwE
